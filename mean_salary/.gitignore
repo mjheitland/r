@@ -1,0 +1,40 @@
+# R generated files
+*.RData
+*.Rhistory
+
+# RStudio specific files
+.Rproj.user/
+.Rhistory
+.Rdata
+.Ruserdata
+
+# CRAN packages
+*.tar.gz
+
+# R check directory
+check/
+
+# Temporary files
+.Rcheck/
+.Renviron
+.Rproj
+.Rproj.user
+.Rhistory
+.RData
+*.swp
+*.bak
+
+# Session Data files
+.Rapp.history
+
+# User-specific files
+.Rhistory
+.Renviron.user
+.RData.user
+.Rproj.user/
+
+# Logs
+*.log
+
+# macOS-specific
+.DS_Store
